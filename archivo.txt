@@ -1,2 +1,1 @@
-Este es  un ejemplo para el curso de git, donde guardaremos todos los cambios que haremos en este momento.
-Otro cambio para git status -s
+Comandos para git
